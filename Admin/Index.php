@@ -16,7 +16,8 @@
 
     <style>
         body{
-            background-image: url('../img/bg.png');
+            /* background-image: url('../img/bg.png'); */
+            background-color: #000;
             background-repeat:no-repeat;
             background-size: cover;
             background-attachment: fixed;
@@ -111,7 +112,7 @@
 
                 <div class="w3-center mb-sm-5 "> 
                     <img src="../img/logo2.png" width="105" height="105" srcset="">
-                    <h3 class="w3-cursive" style="color: rgba(248, 248, 248, 0.555)"> ADMIN DISPERPUSIP </h3>
+                    <h3 class="w3-cursive" style="color: rgba(248, 248, 248, 0.555)"> ADMIN </h3>
                 </div>
 
                 <div class="input-group mb-sm-3 ">

@@ -69,7 +69,7 @@
         <div class="w3-bar w3-green w3-card w3-block">
             <a href="index.php" class="w3-bar-item w3-button">
                 <img src="img/logo2.png" width="35px" height="35px">
-                e-Kuesioner DISPERPUSIP KARAWANG</a>
+                e-Kuesioner</a>
 
             <a href="index.php" class="ms-sm-4 w3-bar-item w3-button"><i class="bi bi-house-door"></i> Home</a>
         </div>
@@ -503,7 +503,7 @@
 
     <!-- footer -->   
 	<div class="w3-bar w3-green w3-card w3-block">
-		<p class="w3-center">Copyright &copy; 2021 DISPERPUSIP <p>
+		<p class="w3-center">Copyright &copy; 2022 BAYU MAULANA<p>
 	</div>   
     <!-- end footer -->
 

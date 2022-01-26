@@ -66,7 +66,7 @@
         <div class="w3-bar w3-green w3-card w3-block">
             <a href="index.php" class="w3-bar-item w3-button">
                 <img src="img/logo2.png" width="35px" height="35px">
-                e-Kuesioner DISPERPUSIP KARAWANG</a>
+                e-Kuesioner</a>
 
             <a href="index.php" class="ms-sm-4 w3-bar-item w3-button w3-light-green"><i class="bi bi-house-door"></i> Home</a>
         </div>
@@ -76,16 +76,16 @@
         <div class="w3-container w3-center mt-sm-5">
             <a href="form-koesioner.php"><button class="btn btn-success">SURVEI TINGKAT KEPUASAN RESPONDEN</button></a>
         </div>
-
+<!-- 
         <div class="w3-container w3-center mt-sm-5">
             <a href="from_angketPenelitianIBM.php"><button class="btn btn-success">ANKGET PENELITIAN INDEKS BACA MASYARAKAT</button></a>
-        </div>
+        </div> -->
     <!-- end isi -->
 
     <!-- footer -->
     <footer>
 		<div class="navbar navbar-nav w3-green w3-card w3-block">
-			<p>Copyright &copy; 2021 DISPERPUSIP <p>
+			<p>Copyright &copy; 2022 BAYU MAULANA <p>
 		</div>
 	</footer>
     <!-- end footer -->
